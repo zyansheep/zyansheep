@@ -1,4 +1,4 @@
-### Nothing matters, and yet the world beckons my curiosity.
+### The meaning of life is underdetermined, and yet the world beckons my curiosity.
 
 Hello! I am Zyansheep
 
