@@ -6,4 +6,4 @@ I am working to create a [decentralized and privacy-respecting Internet](https:/
 
 I am working to create a [universal programming language](https://dither.link/docs/disp/disp.html) that supports all of computational math and arbitrary representations of syntax (among other things).
 
-If you are interested / would like to discuss what I am working on, send me a dm on matrix or discord :D
+If you are interested / would like to discuss what I am working on, or you are working on something similar, send me a dm on matrix or discord! :D
