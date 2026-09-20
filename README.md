@@ -1,8 +1,8 @@
 ### The meaning of life is underdetermined, and yet the world beckons my curiosity.
 
-Hello! I am Zyansheep
+Hello! I am Zyan
 
-I am a person who thinks decentralizing the internet (and potentially the world as a whole) in whatever manner possible is the most important problem ever and that we probably need to create formally verified safe AI (a.k.a. a self-optimizing program optimizer, a.k.a a generalized term inference engine) in order to do so. We need this because the to create a peer-to-peer protocol that is verifiably unhackable and has performance good enough to compete with centralized alternatives, the fastest most flexible forwards seems to just be 'throw AI at the problem'.
+I think decentralizing the internet (and potentially the world as a whole) in whatever manner possible is the most important problem ever and that we probably need to create formally verified safe AI (a.k.a. a self-optimizing program optimizer, a.k.a a generalized term inference engine) in order to do so. We need this because in order to create a peer-to-peer protocol that is verifiably unhackable and has performance good enough to compete with centralized alternatives, the fastest most flexible path forwards seems to be: 'throw AI at the problem'.
 
 Towards this goal:
 
